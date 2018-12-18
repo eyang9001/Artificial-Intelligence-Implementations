@@ -41,7 +41,7 @@ My model reaches 0.934 and 0.755 f-scores for positive and negative classes, res
 
 ## ML- Decision Tree
 ###### This was an assignment in the class MSAI 349 'Machine Learning' taught by Professor Doug Downey 
-This is my implementation of the `ID3` decision tree algorithm using calculation of info-gain as the branching factor in `ID3.py`. To combat over-fitting during training, pruning is implemented. Nodes are only pruned if the training accuracy at that node does not decrease afte pruning.
+`ID3.py` is my implementation of the ID3 decision tree algorithm using the calculation of info-gain to determine branches. Pruning is implemented to combat over-fitting during training. Nodes are only pruned if the training accuracy at that node does not decrease after pruning.
 
 A decision tree can be created by calling:
 ```bash
