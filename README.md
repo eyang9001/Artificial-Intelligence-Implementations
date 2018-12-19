@@ -7,7 +7,7 @@ This is my implementation of a knowledge base to hold facts and rules. When new 
 
 ## 2. A* Search
 ###### This was an assignment in the class MSAI 348 'Intro to AI' taught by Professor Jason (Willie) Wilson 
-This is my implementation of A* search for pathing. The example used for this code is to find the fastest path around Northwestern's campus given travel times and direct distance measurements as the heuristic.
+This is my implementation of A* search for pathing. The example used for this code is to find the fastest path around Northwestern's campus given travel times and using direct euclidian distance measurements as the heuristic.
 <img src="2_A Star Search/map.png" width="60%">
 
 `student_code.a_star_search` can be called, providing the start and end locations to return the optimal path.
