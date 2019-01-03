@@ -17,7 +17,7 @@ This is my implementation of A* search for pathing. The example used for this co
 This is my implementation of Minimax adversarial search to play the game: **Konane** 
 <img src="3_Minimax and Alpha Beta/pictures/board.jpg" width=70%>
 
-The program is built with varying levels of AI to play against. There is one version that only uses the minimax algorithm to choose the optimal move, and another version that builds upon the minimax algorithm and epmloys alpha-beta pruning to increase efficiency. The game to can be played by running 
+The program is built with varying levels of AI to play against. There is one version that only uses the minimax algorithm to choose the optimal move, and another version that builds upon the minimax algorithm and employs alpha-beta pruning to increase efficiency. The game to can be played by running 
 ```bash
 python main.py $P1 $P2
 ```
