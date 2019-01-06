@@ -1,5 +1,5 @@
 # MSAI Projects and Assignments
-This is a compilation of the projects and implementations of models I have developed as a part of the MSAI program
+This is a compilation of the projects and implementations of models I have developed as a part of the MSAI program at Northwestern University
 
 ## 1. Knowledge Base
 ###### This was an assignment in the class MSAI 348 'Intro to AI' taught by Professor Jason (Willie) Wilson 
