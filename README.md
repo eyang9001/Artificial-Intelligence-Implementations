@@ -3,7 +3,7 @@ This is a compilation of the projects and implementations of models I have devel
 
 ## 1. Knowledge Base
 ###### This was an assignment in the class MSAI 348 'Intro to AI' taught by Professor Jason (Willie) Wilson 
-This is my implementation of a knowledge base to hold facts and rules. When new facts or rules are added to the knowledge base with `student_code.kb_add`, forward chaining is applied to infer new facts and rules. The knowledge base also handles retracting of facts and rules with `student_code.kb_retract`. Truth maintenance is employed to keep the knowledge base up to date, and make sure all inferred facts and rules are grounded. The knowledge base can also be queried with `student_code.kb_ask` to see if facts or rules exist in the knowledge base.
+This is my implementation of a knowledge base to hold facts and rules. When new facts or rules are added to the knowledge base with `student_code.kb_add` in the form of horn clauses, forward chaining is applied to infer new facts and rules. The knowledge base also handles retracting of facts and rules with `student_code.kb_retract`. Truth maintenance is employed to keep the knowledge base up to date, and make sure all inferred facts and rules are grounded. The knowledge base can also be queried with `student_code.kb_ask` to see if facts or rules exist in the knowledge base.
 
 ## 2. A* Search
 ###### This was an assignment in the class MSAI 348 'Intro to AI' taught by Professor Jason (Willie) Wilson 
